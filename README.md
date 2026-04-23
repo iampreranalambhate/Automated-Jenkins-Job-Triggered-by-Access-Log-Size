@@ -194,7 +194,7 @@ An IAM user named `jenkins-user` was created in AWS with programmatic access and
 
 ![IAM Access Key](./images/iam-access-key.png)
 
-> ⚠️ **Security Note:** The secret access key is shown only once at creation. Store it securely — you cannot retrieve it later.
+> **Security Note:** The secret access key is shown only once at creation. Store it securely — you cannot retrieve it later.
 
 ---
 
@@ -332,7 +332,7 @@ Add the following line:
 
 ---
 
-### 🔟 Verify Jenkins Build Success
+### 10. Verify Jenkins Build Success
 
 After triggering the Jenkins job (either manually or automatically via the monitoring script), the build console output confirms the log was copied, uploaded to S3, and the original file was cleared.
 
