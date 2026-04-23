@@ -166,7 +166,7 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 ![Jenkins Service Status](./images/jenkins-service-status.png)
 
-![Jenkins Dashboard](./images\jenkins-dashboard.png)
+![Jenkins Dashboard](./images/jenkins-dashboard.png)
 
 ---
 
